@@ -1,0 +1,21 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: #fff;
+    height: max-content;
+}
+
+.checkout__left {
+    width: 66.66%;
+}
+
+.checkout__right {
+    width: 33.33%;
+}
+
+.checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
