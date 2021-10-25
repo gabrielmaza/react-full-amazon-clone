@@ -1,3 +1,6 @@
+React Full Amazon Clone
+Author: Gabriel Maza
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
